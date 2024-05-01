@@ -1,0 +1,9 @@
+
+nav i{
+    color: rgb(255, 255, 255);
+}
+.card-title{
+    text-transform: capitalize;
+    font-size: large;
+    font-weight: bold;
+}
